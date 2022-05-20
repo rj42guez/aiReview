@@ -1,8 +1,13 @@
 # aiReview
-This is a machine project by Team ARCH of CS 180 for the second semester of academic year 2021-2022.
 
-Members: 
-Cayetano, Avan
-Choa, JM
-Macalisang, Harold
-Portuguez, Raphael
+aiReview is an artificial intelligence-based system that creates a reviewer (in the form of an HTML file) from handwritten lecture notes. It uses optical character recognition (OCR) in converting an image of handwritten text into a machine-readable text file. Unlike other OCR software, it also features an annotation-conversion system that converts underlined words in the input with blanks and encircled words into bolded words.
+
+This project is developed by: 
+
+- A.V. Cayetano (THX)
+- J. M. Choa (THX)
+- H. A. Macalisang (THU)
+- R. J. Portuguez (THW)
+
+Thematic inspiration:
+SDG 4 – Quality Education.
