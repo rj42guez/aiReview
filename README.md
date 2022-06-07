@@ -1,13 +1,12 @@
 # aiReview
+*This project is developed by Group 6 - ARCH*
 
-aiReview is an artificial intelligence-based system that creates a reviewer (in the form of an HTML file) from handwritten lecture notes. It uses optical character recognition (OCR) in converting an image of handwritten text into a machine-readable text file. Unlike other OCR software, it also features an annotation-conversion system that converts underlined words in the input with blanks and encircled words into bolded words.
+---------
+This project contains:
+- An Optical Character Recognition using KNN Classifier
 
-This project is developed by: 
+# Prerequisites
 
-- A.V. Cayetano (THX)
-- J. M. Choa (THX)
-- H. A. Macalisang (THU)
-- R. J. Portuguez (THW)
+[requirements.txt](requirements.txt) 
 
-Thematic inspiration:
-SDG 4 – Quality Education.
+# Outline
